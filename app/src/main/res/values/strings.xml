@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidContextualMenu</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="contextual_menu_delete_title">Delete</string>
+    <string name="contextual_menu_share_title">Share</string>
+    <string name="contextual_menu_help_title">Help</string>
+</resources>
